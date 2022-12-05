@@ -1,5 +1,4 @@
-# COSC 310 Assignment 3
-Cosc 310 Individual Assignment
+# COSC 310 Individual Assignment
 
 The project is a chatbot that specialises in helping with mental health issues and problems, the bot is programmed to give the user a platform to connect with a therapist and communicate with them.
 
