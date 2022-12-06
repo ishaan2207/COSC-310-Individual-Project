@@ -34,4 +34,5 @@ List of APIs implemented:
   * Porter Stemmer - Implemented porter stemmer to streamline the recognition for what mood the user inputs without having to hard code it.
   * Wikipedia API - Implemented wikipedia API to find each specific wikipedia page for the particular mood the user is feeling at the time and displaying some 
   information about it if they request.
+  * Google Translate API - Implemented a google translate API which requires a string input along with the language the string is currently in and the language you want to translate to. The system prompts the user for which language they would like to use at the start and they can choose.
   
